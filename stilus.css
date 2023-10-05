@@ -1,0 +1,81 @@
+body {
+	background-image: url("kepek/black.png");
+	
+}
+
+#tarolo {
+	background-color: #D3D3D3;
+	max-width:900px;
+	width:90%;
+	margin: auto;
+	font-family: Arial, Verdana, sans-serif;
+	font-size:10pt;
+	text-align: justify;
+}
+
+#tartalom {
+	padding-left: 5pt;
+	padding-right: 5pt;
+	font-size: 15px
+}
+
+#menu {
+	background-color: #333333;
+	color: white;
+}
+
+#menu a {
+	color: white;
+	text-decoration:none;
+}
+
+#menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+#menu li {
+	float: left;
+	display: block;
+	padding: 10pt;
+	border-right: solid white 1pt;
+}
+
+#menu li:hover {
+	background-color:orange;
+}
+
+h1 {
+	font-size:15px;
+}
+
+ul {
+	list-style-type: square;
+}
+
+.torles {
+	clear: both
+}
+
+#img1 {
+	width:100%
+}
+
+#lablec {
+	background-color: orange;
+	text-align: center;
+}
+
+#img2 {
+	float: right;
+	padding:15px;
+	margin-left:10pt
+}
+
+#img3{
+	float: right;
+	padding:15px;
+	margin-left:10pt
+}
